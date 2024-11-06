@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #aadfe4;
+    background-image: url("https://static9.depositphotos.com/1001911/1198/v/450/depositphotos_11986565-stock-illustration-making-a-point-emoticon.jpg")
+}
+
+.container {
+    text-align: center;
+    max-width: 400px;
+    background-color: #ebf2f3;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(12, 3, 3, 0.2);
+}
+
+.joke-box {
+    margin-bottom: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 241);
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.green {
+    background-color: #25b72a;
+}
+
+.red {
+    background-color: #f1473ae0;
+}
